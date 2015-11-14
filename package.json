@@ -1,6 +1,6 @@
 {
   "name": "sql-escape",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Escape SQL special characters and quotes in strings",
   "main": "index.js",
   "directories": {
