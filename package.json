@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Escape SQL special characters and quotes in strings",
   "main": "index.js",
-  "bin": {
-    "sql-escape": "cli.js"
-  },
   "directories": {
     "test": "test"
   },
