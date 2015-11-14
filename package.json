@@ -1,0 +1,35 @@
+{
+  "name": "sql-escape",
+  "version": "1.0.0",
+  "description": "Escape SQL special characters and quotes in strings",
+  "main": "index.js",
+  "bin": {
+    "sql-escape": "cli.js"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/packagestats/sql-escape.git"
+  },
+  "keywords": [
+    "SQL",
+    "escape",
+    "strings",
+    "special",
+    "characters"
+  ],
+  "author": "Joel Kemp <joel@mrjoelkemp.com> (http://www.mrjoelkemp.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/packagestats/sql-escape/issues"
+  },
+  "homepage": "https://github.com/packagestats/sql-escape#readme",
+  "devDependencies": {
+    "mocha": "~2.3.3"
+  }
+}
